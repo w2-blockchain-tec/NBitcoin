@@ -1,0 +1,32 @@
+D:\Trabalhos\Programming\Bitcoin\Visual Studio 2013\Projects\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\ProgrammingBlockchain.exe.config
+D:\Trabalhos\Programming\Bitcoin\Visual Studio 2013\Projects\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\ProgrammingBlockchain.exe
+D:\Trabalhos\Programming\Bitcoin\Visual Studio 2013\Projects\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\ProgrammingBlockchain.pdb
+D:\Trabalhos\Programming\Bitcoin\Visual Studio 2013\Projects\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\NBitcoin.BouncyCastle.dll
+D:\Trabalhos\Programming\Bitcoin\Visual Studio 2013\Projects\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\NBitcoin.dll
+D:\Trabalhos\Programming\Bitcoin\Visual Studio 2013\Projects\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\Newtonsoft.Json.dll
+D:\Trabalhos\Programming\Bitcoin\Visual Studio 2013\Projects\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\protobuf-net.dll
+D:\Trabalhos\Programming\Bitcoin\Visual Studio 2013\Projects\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\NBitcoin.pdb
+D:\Trabalhos\Programming\Bitcoin\Visual Studio 2013\Projects\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\NBitcoin.xml
+D:\Trabalhos\Programming\Bitcoin\Visual Studio 2013\Projects\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\NBitcoin.BouncyCastle.pdb
+D:\Trabalhos\Programming\Bitcoin\Visual Studio 2013\Projects\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\Newtonsoft.Json.xml
+D:\Trabalhos\Programming\Bitcoin\Visual Studio 2013\Projects\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\protobuf-net.pdb
+D:\Trabalhos\Programming\Bitcoin\Visual Studio 2013\Projects\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\protobuf-net.xml
+D:\Trabalhos\Programming\Bitcoin\Visual Studio 2013\Projects\ProgrammingBlockchain\ProgrammingBlockchain\obj\Release\ProgrammingBlockchain.csprojResolveAssemblyReference.cache
+D:\Trabalhos\Programming\Bitcoin\Visual Studio 2013\Projects\ProgrammingBlockchain\ProgrammingBlockchain\obj\Release\ProgrammingBlockchain.exe
+D:\Trabalhos\Programming\Bitcoin\Visual Studio 2013\Projects\ProgrammingBlockchain\ProgrammingBlockchain\obj\Release\ProgrammingBlockchain.pdb
+D:\Trabalhos\Bitcoin\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\ProgrammingBlockchain.exe.config
+D:\Trabalhos\Bitcoin\ProgrammingBlockchain\ProgrammingBlockchain\obj\Release\ProgrammingBlockchain.exe
+D:\Trabalhos\Bitcoin\ProgrammingBlockchain\ProgrammingBlockchain\obj\Release\ProgrammingBlockchain.pdb
+D:\Trabalhos\Bitcoin\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\ProgrammingBlockchain.exe
+D:\Trabalhos\Bitcoin\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\ProgrammingBlockchain.pdb
+D:\Trabalhos\Bitcoin\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\NBitcoin.BouncyCastle.dll
+D:\Trabalhos\Bitcoin\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\NBitcoin.dll
+D:\Trabalhos\Bitcoin\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\Newtonsoft.Json.dll
+D:\Trabalhos\Bitcoin\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\protobuf-net.dll
+D:\Trabalhos\Bitcoin\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\NBitcoin.pdb
+D:\Trabalhos\Bitcoin\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\NBitcoin.xml
+D:\Trabalhos\Bitcoin\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\NBitcoin.BouncyCastle.pdb
+D:\Trabalhos\Bitcoin\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\Newtonsoft.Json.xml
+D:\Trabalhos\Bitcoin\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\protobuf-net.pdb
+D:\Trabalhos\Bitcoin\ProgrammingBlockchain\ProgrammingBlockchain\bin\Release\protobuf-net.xml
+D:\Trabalhos\Bitcoin\ProgrammingBlockchain\ProgrammingBlockchain\obj\Release\ProgrammingBlockchain.csprojResolveAssemblyReference.cache
